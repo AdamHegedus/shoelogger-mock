@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "type": "Hiking"
+    },
+    {
+        "id": 2,
+        "type": "Running"
+    },
+    {
+        "id": 3,
+        "type": "Walking"
+    },
+    {
+        "id": 4,
+        "type": "Winter"
+    }
+]
