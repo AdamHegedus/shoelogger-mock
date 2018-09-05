@@ -76,4 +76,10 @@ app.post('/logs/post-log.php', (req, res) => {
     sendFileContent(fileName, res);
 });
 
+app.post('/logs/delete-log.php', (req, res) => {
+    res.append('Content-Type', 'application/json');
+    const fileName = 'logs/delete-log.json';
+    sendFileContent(fileName, res);
+});
+
 app.listen(8080, () => console.log('Example app listening on port 8080!'));

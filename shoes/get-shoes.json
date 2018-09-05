@@ -7,13 +7,6 @@
         "distance": "158"
     },
     {
-        "id": "25",
-        "type": "Hiking",
-        "brand": "Helly Hansen",
-        "product": "Random",
-        "distance": "3"
-    },
-    {
         "id": "10",
         "type": "Running",
         "brand": "Kalenji",
