@@ -1,30 +1,79 @@
 [
     {
-        "id": 1,
-        "product": "Montreal",
-        "brand": "Helly Hansen",
+        "id": "16",
         "type": "Winter",
-        "distance": 240
+        "brand": "Helly Hansen",
+        "product": "Montreal",
+        "distance": "158"
     },
     {
-        "id": 2,
-        "product": "Kiprun Long",
-        "brand": "Kalenji",
+        "id": "25",
+        "type": "Hiking",
+        "brand": "Helly Hansen",
+        "product": "Random",
+        "distance": "3"
+    },
+    {
+        "id": "10",
         "type": "Running",
-        "distance": 10
+        "brand": "Kalenji",
+        "product": "Kiprun LD",
+        "distance": "13"
     },
     {
-        "id": 3,
+        "id": "19",
+        "type": "Running",
+        "brand": "Lotto",
+        "product": "Speedride 600",
+        "distance": "137"
+    },
+    {
+        "id": "1",
+        "type": "Hiking",
+        "brand": "Lowa",
         "product": "Renegade LL",
-        "brand": "Lowa",
-        "type": "Hiking",
-        "distance": 0
+        "distance": null
     },
     {
-        "id": 4,
-        "product": "Tibet GTX",
-        "brand": "Lowa",
+        "id": "2",
         "type": "Hiking",
-        "distance": 40
+        "brand": "Lowa",
+        "product": "Tibet GTX",
+        "distance": "45"
+    },
+    {
+        "id": "23",
+        "type": "Hiking",
+        "brand": "Merrell",
+        "product": "MOAB GTX",
+        "distance": "205"
+    },
+    {
+        "id": "11",
+        "type": "Walking",
+        "brand": "New Feel",
+        "product": "PW 240",
+        "distance": "65"
+    },
+    {
+        "id": "12",
+        "type": "Hiking",
+        "brand": "Quechua",
+        "product": "Forclaz 500 WTP",
+        "distance": "65"
+    },
+    {
+        "id": "18",
+        "type": "Hiking",
+        "brand": "Quechua",
+        "product": "Forclaz 100",
+        "distance": "65"
+    },
+    {
+        "id": "24",
+        "type": "Walking",
+        "brand": "Reebok",
+        "product": "Yourflex",
+        "distance": "213"
     }
 ]
