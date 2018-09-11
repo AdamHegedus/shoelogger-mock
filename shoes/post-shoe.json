@@ -1,8 +1,7 @@
 {
     "data": {
-        "product": "Montreal",
-        "brand": "Helly Hansen",
-        "type": "Winter",
-        "distance": 240
+        "brandId": 28,
+        "typeId": 2,
+        "product": "Test"
     }
 }

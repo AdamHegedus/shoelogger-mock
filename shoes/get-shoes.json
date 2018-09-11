@@ -11,14 +11,14 @@
         "type": "Running",
         "brand": "Kalenji",
         "product": "Kiprun LD",
-        "distance": "13"
+        "distance": "16"
     },
     {
         "id": "19",
         "type": "Running",
         "brand": "Lotto",
         "product": "Speedride 600",
-        "distance": "137"
+        "distance": "144"
     },
     {
         "id": "1",
@@ -60,7 +60,7 @@
         "type": "Hiking",
         "brand": "Quechua",
         "product": "Forclaz 100",
-        "distance": "65"
+        "distance": "66"
     },
     {
         "id": "24",

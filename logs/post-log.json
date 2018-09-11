@@ -1,9 +1,7 @@
 {
     "data": {
-        "product": "Tibet GTX",
-        "brand": "Lowa",
-        "type": "Hiking",
-        "date": "2018-01-04",
-        "distance": 25
+        "shoeId": 35,
+        "distance": "100",
+        "date": "2018-09-11"
     }
 }
