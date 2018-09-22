@@ -4,69 +4,79 @@
         "type": "Winter",
         "brand": "Helly Hansen",
         "product": "Montreal",
-        "distance": "158"
+        "distance": "152",
+        "timestamp": "2018-09-22 06:09:21"
     },
     {
         "id": "10",
         "type": "Running",
         "brand": "Kalenji",
         "product": "Kiprun LD",
-        "distance": "16"
+        "distance": "16",
+        "timestamp": "2018-09-22 06:09:10"
     },
     {
         "id": "19",
         "type": "Running",
         "brand": "Lotto",
         "product": "Speedride 600",
-        "distance": "144"
+        "distance": "146",
+        "timestamp": "2018-09-22 06:09:30"
     },
     {
         "id": "1",
         "type": "Hiking",
         "brand": "Lowa",
         "product": "Renegade LL",
-        "distance": null
+        "distance": null,
+        "timestamp": "2018-09-22 06:08:25"
     },
     {
         "id": "2",
         "type": "Hiking",
         "brand": "Lowa",
         "product": "Tibet GTX",
-        "distance": "45"
+        "distance": "45",
+        "timestamp": "2018-09-22 06:08:31"
     },
     {
         "id": "23",
         "type": "Hiking",
         "brand": "Merrell",
         "product": "MOAB GTX",
-        "distance": "205"
+        "distance": "205",
+        "timestamp": "2018-09-22 06:08:50"
     },
     {
         "id": "11",
         "type": "Walking",
         "brand": "New Feel",
-        "product": "PW 240",
-        "distance": "65"
+        "product": "Propulse Walk 240",
+        "distance": "82",
+        "timestamp": "2018-09-22 06:09:04"
     },
     {
         "id": "12",
         "type": "Hiking",
         "brand": "Quechua",
         "product": "Forclaz 500 WTP",
-        "distance": "65"
+        "distance": "65",
+        "timestamp": "2018-09-22 06:09:17"
     },
     {
         "id": "18",
         "type": "Hiking",
         "brand": "Quechua",
         "product": "Forclaz 100",
-        "distance": "66"
+        "distance": "66",
+        "timestamp": "2018-09-22 06:09:25"
     },
     {
         "id": "24",
         "type": "Walking",
         "brand": "Reebok",
         "product": "Yourflex",
-        "distance": "213"
+        "distance": "276",
+        "timestamp": "2018-09-22 06:08:45"
     }
 ]
