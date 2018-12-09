@@ -51,9 +51,21 @@ app.get('/shoes/get-shoes.php', (req, res) => {
     sendFileContent(fileName, res);
 });
 
+app.get('/shoes/get-shoes-by-id.php', (req, res) => {
+    res.append('Content-Type', 'application/json');
+    const fileName = 'shoes/get-shoes-by-id.json';
+    sendFileContent(fileName, res);
+});
+
 app.post('/shoes/post-shoe.php', (req, res) => {
     res.append('Content-Type', 'application/json');
     const fileName = 'shoes/post-shoe.json';
+    sendFileContent(fileName, res);
+});
+
+app.post('/shoes/put-shoe.php', (req, res) => {
+    res.append('Content-Type', 'application/json');
+    const fileName = 'shoes/put-shoe.json';
     sendFileContent(fileName, res);
 });
 
