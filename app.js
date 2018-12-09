@@ -51,7 +51,7 @@ app.get('/shoes/get-shoes.php', (req, res) => {
     sendFileContent(fileName, res);
 });
 
-app.get('/shoes/get-shoes-by-id.php', (req, res) => {
+app.post('/shoes/get-shoes-by-id.php', (req, res) => {
     res.append('Content-Type', 'application/json');
     const fileName = 'shoes/get-shoes-by-id.json';
     sendFileContent(fileName, res);
